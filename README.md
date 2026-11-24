@@ -26,7 +26,6 @@ Each iteration computes the predictions, measures the error, and moves the weigh
 | File | Description |
 |---|---|
 | `task6.ipynb` | Full implementation, experiments, graphs and conclusions |
-| `output.png` | Learning rate experiment graph |
 | `README.md` | This file |
 
 ## Results
