@@ -1,4 +1,4 @@
-# Build Your Own Brain: Linear Regression from Scratch
+# Build Your Own Brain: Linear Regression from Scratch(Task6)
 
 Linear Regression implemented from scratch with **NumPy** and trained with **Gradient Descent** on the **California Housing** dataset. I studied the effect of feature scaling and learning rate, then compared my model with `sklearn.linear_model.LinearRegression` using MSE, MAE and R².
 
