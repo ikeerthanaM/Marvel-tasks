@@ -1,0 +1,7 @@
+[INFO] 2026-11-25 10:01:02 System boot completed
+[ERROR] 2026-11-25 10:05:11 Disk I/O timeout on /dev/sda1
+[WARN] 2026-11-25 10:06:00 High memory usage detected
+[ERROR] 2026-11-25 10:07:45 Failed to bind port 8080
+[ERROR] 2026-11-25 10:09:12 Disk I/O timeout on /dev/sda1
+[INFO] 2026-11-25 10:10:00 Cron job executed
+[ERROR] 2026-11-25 10:12:30 Disk I/O timeout on /dev/sda1
